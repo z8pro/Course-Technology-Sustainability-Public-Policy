@@ -1,4 +1,4 @@
-**Executive Summary**
+## Executive Summary
 The EPFL student gym is a heavily subsidized campus service whose mission is to provide inclusive, safe, and comfortable access to
 physical activity. Persistent overcrowding, long waiting times, and uneven access across student groups indicate that current usage levels
 exceed what the facility can sustain without degrading user experience and equity.
